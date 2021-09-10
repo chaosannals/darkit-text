@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkit.Text", "Darkit.Text\Darkit.Text.csproj", "{B4CC0512-B6D9-4CD2-B04C-3D45D5C21627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darkit.Text.Demo", "Darkit.Text.Demo\Darkit.Text.Demo.csproj", "{1A14A53D-AC35-4CE6-BB44-C5B3B9E7DB3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CC0512-B6D9-4CD2-B04C-3D45D5C21627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CC0512-B6D9-4CD2-B04C-3D45D5C21627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CC0512-B6D9-4CD2-B04C-3D45D5C21627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CC0512-B6D9-4CD2-B04C-3D45D5C21627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A14A53D-AC35-4CE6-BB44-C5B3B9E7DB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A14A53D-AC35-4CE6-BB44-C5B3B9E7DB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A14A53D-AC35-4CE6-BB44-C5B3B9E7DB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A14A53D-AC35-4CE6-BB44-C5B3B9E7DB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {467EC3F2-F539-473D-801A-EFF4DDDF92FC}
+	EndGlobalSection
+EndGlobal
