@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.0</version>
+    <title>$title$</title>
+    <authors>ChaosAnnals</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>http://github.com/chaosannals/darkit-text/</projectUrl>
+    <icon>Logo.png</icon>
+    <description>Yet a text library.</description>
+    <releaseNotes>Yet a text library.</releaseNotes>
+    <copyright>Copyright © 2021 ChaosAnnals</copyright>
+    <tags>Case Style Text</tags>
+  </metadata>
+  <files>
+    <file src="Logo.png" target="" />
+  </files>
+</package>
